@@ -1,2 +1,2 @@
-# Tic-Tae-Toe-Game-
+# Tic-Tae-Toe-Game
 A console game application.
